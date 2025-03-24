@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+.vs/
+.vscode/
+.idea/
+
+burp_launcher/
+Release/
+Debug/
+
+*.iml
+
+*.aps
+*.log

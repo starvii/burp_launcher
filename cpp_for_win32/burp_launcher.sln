@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "burp_launcher", "burp_launcher.vcxproj", "{D791B55E-200B-4673-8196-7333A7D40277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D791B55E-200B-4673-8196-7333A7D40277}.Debug|x64.ActiveCfg = Debug|x64
+		{D791B55E-200B-4673-8196-7333A7D40277}.Debug|x64.Build.0 = Debug|x64
+		{D791B55E-200B-4673-8196-7333A7D40277}.Debug|x86.ActiveCfg = Debug|Win32
+		{D791B55E-200B-4673-8196-7333A7D40277}.Debug|x86.Build.0 = Debug|Win32
+		{D791B55E-200B-4673-8196-7333A7D40277}.Release|x64.ActiveCfg = Release|Win32
+		{D791B55E-200B-4673-8196-7333A7D40277}.Release|x64.Build.0 = Release|Win32
+		{D791B55E-200B-4673-8196-7333A7D40277}.Release|x86.ActiveCfg = Release|Win32
+		{D791B55E-200B-4673-8196-7333A7D40277}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63797EC5-E0FE-438A-A662-6DDFAA969C43}
+	EndGlobalSection
+EndGlobal
